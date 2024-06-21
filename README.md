@@ -2,6 +2,8 @@
 
 This repository contains an AI-powered REST client implemented in Python using PyQt for the graphical user interface. The client can automatically record audio, transcribe it to text using an AI model, send the transcribed text to an AI model to get a response, convert the response back to speech, and send the resulting audio file to a REST API endpoint.
 
+![Alt Text](resources/ai_conversation.png)
+
 ## Features
 
 - **Automatic Workflow**: Record audio, transcribe it, get an AI response, convert the response to speech, and send the resulting audio file to a server.
