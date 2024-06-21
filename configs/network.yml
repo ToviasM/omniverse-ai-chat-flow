@@ -1,0 +1,4 @@
+base_url: http://127.0.0.1:5000
+endpoint: upload_audio
+folder_path: D:/Mirror Mirror/Tools/audio
+instance_name: /World/audio2face/PlayerStreaming

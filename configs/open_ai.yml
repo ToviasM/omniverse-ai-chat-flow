@@ -1,0 +1,6 @@
+chat_model: gpt-4o
+module: handlers.ai_handler.OpenAIHandler
+speech_model: tts-1
+system_message: I want your messages to be no more than two sentences
+transcribe_model: whisper-1
+voice: echo

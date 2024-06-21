@@ -1,0 +1,7 @@
+module: "handlers.ai_handler.GeminiHandler"
+system_message: ""
+chat_model: "gpt-4o"
+transcribe_model: "whisper-1"
+speech_model: "tts-1"
+voice: "echo"
+test: "test"
