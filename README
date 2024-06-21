@@ -28,7 +28,7 @@ This repository contains an AI-powered REST client implemented in Python using P
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/python-ai-chat-flow.git
+    git clone https://github.com/ToviasM/python-ai-chat-flow/edit/
     cd omniverse-ai-service
     ```
 
