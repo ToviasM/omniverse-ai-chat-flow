@@ -63,10 +63,6 @@ This repository contains an AI-powered REST client implemented in Python using P
     - **Audio Playback**: Test audio playback.
     - **Go Live**: Start live audio recording and interaction.
 
-## Screenshot
-
-![Omniverse AI Service](https://github.com/yourusername/omniverse-ai-service/raw/main/docs/screenshot.png)
-
 ## Example
 
 Here is an example of how the application workflow operates:
