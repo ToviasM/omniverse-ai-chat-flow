@@ -1,4 +1,4 @@
-# Python AI Chat Flow For Omniverse & Unreal
+# Python AI Chat Flow For Omniverse & Unreal (Work-In-Progress)
 
 This repository contains an AI-powered REST client implemented in Python using PyQt for the graphical user interface. The client can automatically record audio, transcribe it to text using an AI model, send the transcribed text to an AI model to get a response, convert the response back to speech, and send the resulting audio file to a REST API endpoint.
 
